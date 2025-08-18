@@ -1,0 +1,5 @@
+fastapi==0.111.0
+uvicorn[standard]==0.23.1
+influxdb-client==1.36.0
+certifi
+pandas
